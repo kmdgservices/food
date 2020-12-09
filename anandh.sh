@@ -1,3 +1,5 @@
- i am from master 
-hii...
+ i am from ma<<< Updated upstream
 i am from development
+=======
+hello
+>>>>>>> Stashed changes
